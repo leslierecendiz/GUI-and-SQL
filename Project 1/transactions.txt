@@ -1,0 +1,5 @@
+210124212157, 22389,  "Swingline Model B2200 stapler", 18.0, 1, 0, 18.0, 01/24/21, 09:57:21 PM EST
+210124212157, 2190,  "Hefty 30 gal with handles - box 40", 19.0, 2, 0, 38.0, 01/24/21, 09:57:21 PM EST
+210124212157, 198,  "Box of 10 Sharpie Roller 0.5mm", 6.5, 2, 0, 13.0, 01/24/21, 09:57:21 PM EST
+210124212200, 14,  "Stanley #2 Philips Screwdriver", 6.95, 1, 0, 6.95, 01/24/21, 10:00:17 PM EST
+210124212200, 29741,  "Plush teddy bear 8 inch", 24.0, 1, 0, 24.0, 01/24/21, 10:00:53 PM EST
